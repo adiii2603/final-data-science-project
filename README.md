@@ -31,7 +31,7 @@ This Jupyter notebook demonstrates the application of data science methodologies
    - Both dashboards
 
 ## 🔗 Submission Link
-> Replace this line with your GitHub or Watson Studio shareable URL.
+> https://github.com/adiii2603/final-data-science-project.git
 
 ## 📌 Notes
 Ensure you have the following libraries installed:
